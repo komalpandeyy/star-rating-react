@@ -1,0 +1,19 @@
+.active{
+ color: yellow;
+}
+
+.inactive{
+  color:black;
+}
+
+.center{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+}
+
+
+
